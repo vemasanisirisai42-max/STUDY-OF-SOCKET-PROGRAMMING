@@ -93,7 +93,11 @@ while True:
 ```
 
 ## output
+SERVER
+![alt text](image.jpg)
 
+CLIENT
+![alt text](image-1.jpg)
 
 
 
